@@ -1,0 +1,15 @@
+body{
+    background-color: antiquewhite;
+}
+.likes{
+    color: darkmagenta;
+    font-size: 18px;
+    text-align:justify
+    padding: 5px;
+}
+.dislike{
+    color: brown;
+    font-size: 18px;
+    text-align:justify
+    padding:5px;
+}
